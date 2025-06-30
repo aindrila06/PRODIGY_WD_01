@@ -1,1 +1,1 @@
-# PRODIGY_WD_01
+This is a modern, responsive multi-page website for **PRODIGY INFOTECH**, built using HTML, Tailwind CSS, and vanilla JavaScript. It includes four separate pages: Home, About, Services, and Contact — each designed with a clean, tech-inspired UI. Features include a dynamic navigation bar with active link highlighting, a styled search bar, scroll-based navbar shadow effect, and responsive design for all screen sizes. The layout is optimized for fast performance and readability. Ideal for portfolios, startups, or internship projects.
