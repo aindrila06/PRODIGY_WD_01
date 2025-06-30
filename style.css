@@ -1,0 +1,43 @@
+body {
+  font-family: 'Plus Jakarta Sans', 'Noto Sans', sans-serif;
+}
+
+.nav-link {
+  transition: color 0.2s ease;
+}
+
+.nav-link:hover {
+  color: #0ea5e9;
+}
+
+.nav-link.active {
+  color: #0ea5e9;
+  font-weight: 700;
+  border-bottom: 2px solid #0ea5e9;
+}
+
+/* Service card */
+.service-card {
+  padding: 1.5rem;
+  background: white;
+  border: 1px solid #cbd5e1;
+  border-radius: 0.5rem;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+  transition: all 0.2s ease-in-out;
+}
+
+.service-card:hover {
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+.service-card h3 {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: #0f172a;
+  margin-bottom: 0.5rem;
+}
+
+.service-card p {
+  font-size: 0.875rem;
+  color: #475569;
+}
